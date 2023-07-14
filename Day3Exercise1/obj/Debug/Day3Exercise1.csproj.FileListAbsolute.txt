@@ -1,0 +1,8 @@
+C:\Genpact\Projects\Day3Exercise1\bin\Debug\Day3Exercise1.exe.config
+C:\Genpact\Projects\Day3Exercise1\bin\Debug\Day3Exercise1.exe
+C:\Genpact\Projects\Day3Exercise1\bin\Debug\Day3Exercise1.pdb
+C:\Genpact\Projects\Day3Exercise1\obj\Debug\Day3Exercise1.csproj.AssemblyReference.cache
+C:\Genpact\Projects\Day3Exercise1\obj\Debug\Day3Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Projects\Day3Exercise1\obj\Debug\Day3Exercise1.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\Day3Exercise1\obj\Debug\Day3Exercise1.exe
+C:\Genpact\Projects\Day3Exercise1\obj\Debug\Day3Exercise1.pdb

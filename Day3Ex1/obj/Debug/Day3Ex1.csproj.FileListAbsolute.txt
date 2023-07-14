@@ -1,0 +1,8 @@
+C:\Genpact\Projects\Day3Ex1\bin\Debug\Day3Ex1.exe.config
+C:\Genpact\Projects\Day3Ex1\bin\Debug\Day3Ex1.exe
+C:\Genpact\Projects\Day3Ex1\bin\Debug\Day3Ex1.pdb
+C:\Genpact\Projects\Day3Ex1\obj\Debug\Day3Ex1.csproj.AssemblyReference.cache
+C:\Genpact\Projects\Day3Ex1\obj\Debug\Day3Ex1.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Projects\Day3Ex1\obj\Debug\Day3Ex1.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\Day3Ex1\obj\Debug\Day3Ex1.exe
+C:\Genpact\Projects\Day3Ex1\obj\Debug\Day3Ex1.pdb
