@@ -33,8 +33,6 @@ namespace Day5Assignment1
             Display();
             Console.ReadKey();
 
-
-
         }
            public static void Display()
             {
