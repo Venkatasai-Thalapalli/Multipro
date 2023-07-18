@@ -1,0 +1,11 @@
+C:\Genpact\Projects\Day7Ex1\bin\Debug\Day7Ex1.exe.config
+C:\Genpact\Projects\Day7Ex1\bin\Debug\Day7Ex1.exe
+C:\Genpact\Projects\Day7Ex1\bin\Debug\Day7Ex1.pdb
+C:\Genpact\Projects\Day7Ex1\bin\Debug\ShapeAreaLib.dll
+C:\Genpact\Projects\Day7Ex1\bin\Debug\ShapeAreaLib.pdb
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.csproj.AssemblyReference.cache
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.csproj.CopyComplete
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.exe
+C:\Genpact\Projects\Day7Ex1\obj\Debug\Day7Ex1.pdb

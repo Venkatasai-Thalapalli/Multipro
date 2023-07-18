@@ -1,0 +1,6 @@
+C:\Genpact\Projects\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+C:\Genpact\Projects\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+C:\Genpact\Projects\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+C:\Genpact\Projects\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+C:\Genpact\Projects\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb
