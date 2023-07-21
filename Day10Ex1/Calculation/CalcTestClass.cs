@@ -10,7 +10,13 @@ namespace Calculation
     [TestFixture]
     public class CalcTestClass
     {
-        Calc c = new Calc();
+        private Calc c;
+        [SetUp]
+        public void SetUp()
+        {
+            c = new Calc();
+        }
+  
         [Test]
         public void AddTest()
         {
