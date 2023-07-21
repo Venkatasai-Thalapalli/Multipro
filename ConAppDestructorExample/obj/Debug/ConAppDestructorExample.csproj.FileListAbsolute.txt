@@ -1,0 +1,8 @@
+C:\Genpact\Projects\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.exe.config
+C:\Genpact\Projects\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.exe
+C:\Genpact\Projects\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.pdb
+C:\Genpact\Projects\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.AssemblyReference.cache
+C:\Genpact\Projects\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Projects\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.exe
+C:\Genpact\Projects\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.pdb

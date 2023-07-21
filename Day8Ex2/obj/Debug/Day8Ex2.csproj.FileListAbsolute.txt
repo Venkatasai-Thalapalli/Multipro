@@ -1,0 +1,8 @@
+C:\Genpact\Projects\Day8Ex2\bin\Debug\Day8Ex2.exe.config
+C:\Genpact\Projects\Day8Ex2\bin\Debug\Day8Ex2.exe
+C:\Genpact\Projects\Day8Ex2\bin\Debug\Day8Ex2.pdb
+C:\Genpact\Projects\Day8Ex2\obj\Debug\Day8Ex2.csproj.AssemblyReference.cache
+C:\Genpact\Projects\Day8Ex2\obj\Debug\Day8Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Projects\Day8Ex2\obj\Debug\Day8Ex2.csproj.CoreCompileInputs.cache
+C:\Genpact\Projects\Day8Ex2\obj\Debug\Day8Ex2.exe
+C:\Genpact\Projects\Day8Ex2\obj\Debug\Day8Ex2.pdb
