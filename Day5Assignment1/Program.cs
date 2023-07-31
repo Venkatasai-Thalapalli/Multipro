@@ -29,7 +29,7 @@ namespace Day5Assignment1
             string a = Console.ReadLine();
             Console.WriteLine("add element at which position:");
             int b = int.Parse(Console.ReadLine());
-            Insert(a,b);
+            Insert(a);
             Display();
             Console.ReadKey();
 
@@ -43,16 +43,19 @@ namespace Day5Assignment1
             }
             
             }
-            public static void Insert(string y, int pos)
+            public static void Insert(string y)
         {
-            if(pos <= fruits.Count)
-            {
-                fruits.Insert(pos-1, y);
-            }
-            else
-            {
-                Console.WriteLine("Not possible");
-            }
+            //if(pos <= fruits.Count)
+            //{
+            //    fruits.Insert(pos-1, y);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Not possible");
+            //}
+            fruits.Add(y);
+
+
         }
              public static void Search(string val)
         {
