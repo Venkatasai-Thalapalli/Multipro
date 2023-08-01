@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form action=" result.html" method="get">
+        <table class="=frmContainer">
+            <tr class="frmGroup">
+                <td class="frmLbl"> Username: </td>
+                <td><input type="text" class="frmInput" name="uName" id="uName" required /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User email:</td>
+                <td> <input type="text" class="frmInput" name="uEmail" id-="uEmail" required /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User Password:</td>
+                <td><input type="password" class="frmInput" name="uPwd" id="uPwd" required /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">UserType</td>
+                <td>Gold:<input type="radio" class="frmInput" value="Gold" name="utype" checked /></td>
+                <td>Silver:<input type="radio" class="frmInput" value="Silver" name="utype" /></td>
+                <td>Bronze:<input type="radio" class="frmInput" value="Bronze" name="utype" /</td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">UserCity:</td>
+                <td>
+                    <select name="ucity">
+                        <option name="Hyd" class="frmInput">Hyderabad</option>
+                        <option name="Del" class="frmInput">Delhi</option>
+                        <option name="Banglore" class="frmInput">Banglore</option>
+                        <option name="Others" class="frmInput">Others</option>
+                    </select>
+                </td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">End of Subscription:</td>
+                <td><input type="datetime-local" class="frmInput" name="udatetime" /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td colspan="2"><input type="submit" class="frmBtn" value="Submit" /></td>
+            </tr>
+        </table>
+    </form>
+
+
+</body>
+</html>

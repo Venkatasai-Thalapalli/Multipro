@@ -1,0 +1,43 @@
+﻿.frmContainer {
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
+
+    .frmContainer h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.frmGroup {
+    margin-bottom: 15px;
+}
+
+.frmInput {
+    width: 95%;
+    margin: 3%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+}
+
+.frmBtn {
+    width: 100%;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .frmBtn:hover {
+        background-color: red;
+    }
+
+.frmLbl {
+    display: block;
+    font-weight: bold;
+}
