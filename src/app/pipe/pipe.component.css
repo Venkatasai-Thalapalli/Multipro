@@ -1,0 +1,7 @@
+.myTable ,th{
+    color:red;
+}
+
+.myTable, td{
+    color:darkblue;
+}

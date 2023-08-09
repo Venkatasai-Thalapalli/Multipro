@@ -1,0 +1,26 @@
+
+<h2 class="bg-primary text-white text-center">IPL TEAMS</h2>
+<ul *ngFor="let t of teams">
+
+
+  <li *ngIf="t.ipltitle>1" class="bg-success text-white">
+    ID: {{t.tid}} <br/>
+    Name: {{t.tname}} <br/>
+    Email: {{t.temail}}<br/>
+    slogan: {{t.tslogan}}<br/>
+    Logo: <img src ={{t.tlogo}}>,<br/>
+    Ipl Title: {{t.ipltitle}}
+  </li>
+
+  
+  <li *ngIf="t.ipltitle < 2" class="bg-danger text-white">
+    ID: {{t.tid}} <br/>
+    Name: {{t.tname}} <br/>
+    Email: {{t.temail}}<br/>
+    slogan: {{t.tslogan}}<br/>
+    Logo: <img src ={{t.tlogo}}>,<br/>
+    Ipl Title: {{t.ipltitle}}
+  </li>
+
+  
+  </ul>

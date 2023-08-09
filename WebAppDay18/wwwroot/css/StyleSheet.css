@@ -1,0 +1,69 @@
+﻿body {
+    background-color: lightgray;
+    color: orangered;
+}
+
+img {
+    border: 2px solid red;
+    width: 70%;
+    height: 70%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.topPanel {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+    height: 25%;
+    width: 96%;
+    background-color: lightgray;
+    color: orangered;
+    text-align: center;
+}
+
+.leftPanel {
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    height: 65%;
+    width: 20%;
+    background-color: whitesmoke;
+    color: white;
+}
+
+.mainPanel {
+    position: absolute;
+    top: 30%;
+    left: 24%;
+    height: 65%;
+    width: 50%;
+    background-color: white;
+    color: darkgray;
+    text-align: center;
+}
+
+.rightPanel {
+    position: absolute;
+    top: 30%;
+    left: 76%;
+    height: 65%;
+    width: 20%;
+    right: 2%;
+    background-color: whitesmoke;
+    color: blue;
+}
+
+.foot{
+    position:absolute;
+    left: 2%;
+    top: 95%;
+    width: 100%;
+    height: 4%;
+    background-color: lightgrey;
+    color: black;
+    text-align:center;
+}

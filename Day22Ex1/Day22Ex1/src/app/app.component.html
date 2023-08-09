@@ -1,0 +1,40 @@
+
+<h2 class="bg-primary text-white text-center">ngSwitch Example</h2>
+<ul *ngFor="let e of emps"[ngSwitch]="e.desig">
+
+  <li *ngSwitchCase="'developer'" class="bg-primary text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}}<br/>
+    Designation: {{e.desig}}<br/>
+    DOJ: {{e.doj}}
+  </li>
+
+  
+  <li *ngSwitchCase="'tester'" class="bg-success text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}}<br/>
+    Designation: {{e.desig}}<br/>
+    DOJ: {{e.doj}}
+  </li>
+
+  
+  <li *ngSwitchCase="'manager'" class="bg-warning text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}}<br/>
+    Designation: {{e.desig}}<br/>
+    DOJ: {{e.doj}}
+  </li>
+
+  
+  <li *ngSwitchDefault class="bg-white text-success">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}}<br/>
+    Designation: {{e.desig}}<br/>
+    DOJ: {{e.doj}}
+  </li>
+  
+  </ul>
