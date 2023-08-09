@@ -3,26 +3,22 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NavComponent } from './nav/nav.component';
-import { PipeComponent } from './pipe/pipe.component';
-import { CustompipeComponent } from './custompipe/custompipe.component';
 import { HomeComponent } from './home/home.component';
-// import { SquareComponent } from './square/square.component';
-import { SquarePipe } from './square.pipe';
-import { BconvertorPipe } from './bconvertor.pipe';
-import { WelcomePipe } from './welcome.pipe';
+import { PipeexComponent } from './pipeex/pipeex.component';
+import { BindingComponent } from './binding/binding.component';
+import { AnimalsComponent } from './animals/animals.component';
+import { NavComponent } from './nav/nav.component';
+import { SalaryPipe } from './salary.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavComponent,
-    PipeComponent,
-    CustompipeComponent,
     HomeComponent,
-    // SquareComponent,
-    SquarePipe,
-    BconvertorPipe,
-    WelcomePipe
+    PipeexComponent,
+    BindingComponent,
+    AnimalsComponent,
+    NavComponent,
+    SalaryPipe
   ],
   imports: [
     BrowserModule,
